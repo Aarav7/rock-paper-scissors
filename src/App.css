@@ -1,0 +1,18 @@
+body{
+  background: #24272e;
+}
+.App-header {
+  background-color: #fff;
+  text-align: center;
+  padding: 10px;
+  font-size: 28px;
+}
+
+.App-header p{
+  margin: 0px;
+  color: #24272e
+}
+
+.App-link {
+  color: #61dafb;
+}
